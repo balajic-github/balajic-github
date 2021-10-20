@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @balajic-github
+- 👀 I’m interested in Coding and fun stuff
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on powershell and pythin
+- 📫 balaji.chdnrasekaran@hotmail.com
